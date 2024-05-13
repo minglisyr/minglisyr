@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @minglisyr
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on machine learning beginner projects
+- 👀 I’m interested in data analysis and processing
+- 🌱 I’m currently learning Python and Ruby
 - 📫 How to reach me ming.li.syr@gmail.com
 
 <!---
