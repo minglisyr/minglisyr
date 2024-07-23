@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minglisyr
 - 👀 I’m interested in data analysis and processing
-- 🌱 I’m currently learning Python and Ruby
+- 🌱 I’m currently learning Python and BASH scripting
 - 📫 How to reach me ming.li.syr@gmail.com
 
 <!---
