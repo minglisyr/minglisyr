@@ -15,7 +15,7 @@
 <p align="center">Currently working on - Private Projects</p>
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/minglisyr/Python_Programming.git" target="_blank">
+  <a href="https://github.com/minglisyr/PythonCFD.git" target="_blank">
     <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
   </a>
 </p>
