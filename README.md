@@ -11,9 +11,9 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Simulation;Data+Science;Python;Javascript;BASH" width="auto" height="35"/>
 </p>
-<p align="center">Currently learning - Python and Javascript</p>
+<p align="center">Currently learning - Python, Javascript, C++</p>
 <p align="center">Currently working on - Private Projects</p>
-<h3 align="center">Most Wanted Language</h3>
+<h3 align="center">Top Language</h3>
 <p align="center">
   <a href="https://github.com/minglisyr/PythonCFD.git" target="_blank">
     <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
